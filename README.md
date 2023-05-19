@@ -7,8 +7,8 @@ This is a recreation of pong
 
 ## Controls
 
- * q and a are up and down repectively for left paddle
- * p and l are up and down repectively for right paddle
+ * q and a are up and down respectively for left paddle
+ * p and l are up and down respectively for right paddle
 
 ## Usage
 
